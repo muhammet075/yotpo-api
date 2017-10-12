@@ -1,7 +1,7 @@
 const express = require('express');
 const app = express();
 const cors = require('express-cors');
-const config = require('config.json');
+const config = require('./config.json');
 
 //Controllers
 const ReviewsController = require('./controllers/ReviewsController');

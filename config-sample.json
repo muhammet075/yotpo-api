@@ -1,6 +1,6 @@
 {
-  "client_id": "",
-  "client_secret": "",
+  "client_id": "API_KEY_REPLACE_WITH_OWN",
+  "client_secret": "API_SECRET_REPLACE_WITH_OWN",
   "grant_type": "client_credentials"
 }
 

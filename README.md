@@ -24,8 +24,8 @@ Download or Git clone and run ``npm i``
 ## Configure API keys
 Create a **config.json** file with your keys. <br />
 Client ID = API Key <br />
-Client secret = API Secret
-Domain = OWN DOMAIN in relation to CORS
+Client secret = API Secret <br />
+Domain = OWN DOMAIN in relation to CORS <br />
 Server will only allow requests from this domain(s)
 
 You can leave the grant_type as default.

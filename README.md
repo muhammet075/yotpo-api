@@ -19,7 +19,7 @@ GET ``/reviews/site``
 
 ## How to install?
 
-Download or Git pull and run ``npm i``
+Download or Git clone and run ``npm i``
 
 ## Configure API keys
 Create a **config.json** file with your keys. <br />
